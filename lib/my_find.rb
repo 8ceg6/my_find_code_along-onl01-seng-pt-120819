@@ -8,6 +8,6 @@ def my_find(collection)
     i += 1  
   
   end 
-  binding.pry 
+  
    
 end
